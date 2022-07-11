@@ -23,8 +23,13 @@ extra-source-files: CHANGELOG.md
 
 library
   exposed-modules:
+    Braces
+    Difference
+    Grow
     Mixed
     Opposites
+    RevSeq
+    TwiceAsOld
 
   -- Modules included in this library but not exported.
   -- other-modules:
